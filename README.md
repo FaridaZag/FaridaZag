@@ -1,7 +1,7 @@
 ### Hi there, I'm Farida Zagirova, here under the nickname FaridaZag 👋
 ---
 
-## Professional in qualitative analysis building new road towards the data-driven segment
+### Professional in qualitative analysis building new road towards the data-driven segment
 - 🌱 I’m currently improving my data analytical skills with Yandex.Practicum by learning Python, SQL, authomatisation processes, etc. 
 - ⚡ Fun fact: I convinced the British Embassy to replace my visa with a new one with an earlier entry period. They did it for FREE and IN 3 DAYS. I am very convincing if I want to :smiling_imp:
 
